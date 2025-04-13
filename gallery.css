@@ -26,11 +26,11 @@ body{
     align-items:centre;
 }
 .preview{
-    width: 40px;
-    height: 60px;
-    margin: 10px 60px 15px 20px;
+    width: 50px;
+    height: 110px;
+    margin: 10px 30px 15px 80px;
     border: 6px solid black;
-    border-radius:5px;
+    border-radius:8px;
 }
 img{
     width:100px;
