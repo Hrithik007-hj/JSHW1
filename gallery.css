@@ -28,17 +28,18 @@ body{
 .preview{
     display:flex;
     flex-direction:row;
+    flex-wrap:wrap;
     gap:20px;
     margin:auto;
     padding:20px;
-    max-width:500px;
+    max-width:800px;
     justify-content:centre;
     border: 8px solid black;
     border-radius:8px;
 }
  .img{
-    height:200px;
-    width:auto;
+    width:120px;
+    height:80px;
     display:block;
 }
     
