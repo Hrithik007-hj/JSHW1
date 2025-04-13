@@ -1,16 +1,16 @@
 body{
-		margin: 2%;
-		border: 1px solid black;
-		background-color: darkgray;
+    margin: 2%;
+    border: 1px solid black;
+    background-color: darkgray;
 }
 #image{
     width: 220px;
     height: 160px;
-	border:10px solid black;
+    border:10px solid black;
     color: black;
     border-radius: 10px;
     padding: 10px;
-	margin:0 auto;
+    margin:0 auto;
     background-color: sienna;
     background-image: url('mypic');
     background-repeat: no-repeat;
@@ -26,12 +26,12 @@ body{
     align-items:centre;
 }
 .preview{
-	width:10%;
-	height:40px;
-    margin: 10px 32px 15px 32px;
+    width: 40px;
+    height: 60px;
+    margin: 10px 60px 15px 20px;
     border: 6px solid black;
     border-radius:5px;
 }
 img{
-		width:95%;
+    width:100px;
 }
