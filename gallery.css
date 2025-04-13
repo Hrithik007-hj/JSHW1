@@ -26,9 +26,13 @@ body{
     align-items:centre;
 }
 .preview{
+    display:flex;
+    justify-content:centre;
+    align-items:centre;
+    position:centre;
     width: 50px;
     height: 110px;
-    margin: 10px 30px 15px 80px;
+    margin: 10px 40px 15px 40px;
     border: 6px solid black;
     border-radius:8px;
 }
