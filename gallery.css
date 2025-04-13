@@ -28,12 +28,11 @@ body{
 .preview{
     display:grid;
     grid-auto-flow:column;
-    width: 80px;
-    height: 150px;
-    gap:15px;
-    margin:20px;
-    padding:20px;
-    max-width:800px;
+    grid-auto-column: 80px;
+    grid-auto-height: 120px;
+    gap:10px;
+    margin:15px;
+    padding:15px;
     justify-content:centre;
     border: 10px solid black;
     border-radius:10px;
