@@ -28,16 +28,12 @@ body{
 .preview{
     display:flex;
     flex-direction:row;
-    gap:40px
+    gap:40px;
+    padding:20px;
+    max-width:1000px
     justify-content:centre;
     align-items:centre;
     position:centre;
-    width: 40px;
-    height: 100px;
-    margin: 10px 40px 15px 40px;
-    border: 6px solid black;
-    border-radius:8px;
-}
-img{
-    width:100px;
+    border: 8px solid black;
+    border-radius:8px
 }
