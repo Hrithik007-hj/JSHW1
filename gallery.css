@@ -28,8 +28,8 @@ body{
 .preview{
     display:grid;
     grid-auto-flow:column;
-    width:500px;
-    height:180px;
+    width: 80px;
+    height: 150px;
     gap:15px;
     margin:20px;
     padding:20px;
