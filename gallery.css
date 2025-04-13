@@ -27,7 +27,7 @@ body{
 }
 .preview{
     width:120px;
-    height:80px
+    height:80px;
     display:flex;
     flex-direction:row;
     flex-wrap:wrap;
