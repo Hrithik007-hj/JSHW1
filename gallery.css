@@ -1,0 +1,37 @@
+body{
+		margin: 2%;
+		border: 1px solid black;
+		background-color: darkgray;
+}
+#image{
+    width: 220px;
+    height: 160px;
+	border:10px solid black;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+	margin:0 auto;
+    background-color: sienna;
+    background-image: url('mypic');
+    background-repeat: no-repeat;
+    background-position:centre;
+    background-size: 100%;
+    margin-top: 25px;
+    margin-bottom:25px;
+    font-weight: bold;
+    text-align: centre;
+    font-size: 14px;
+    display:flex;
+    justify-content:centre;
+    align-items:centre;
+}
+.preview{
+	width:10%;
+	height:40px;
+    margin: 10px 32px 15px 32px;
+    border: 6px solid black;
+    border-radius:5px;
+}
+img{
+		width:95%;
+}
